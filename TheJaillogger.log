@@ -1,0 +1,285 @@
+[main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - welcome to registration
+  [main] INFO  com.TheJail.App  - Enter username
+  [main] INFO  com.TheJail.App  - Create password
+  [main] INFO  com.TheJail.App  - Enter Phone
+  [main] INFO  com.TheJail.App  - Enter Address
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - welcome to registration
+  [main] INFO  com.TheJail.App  - Enter username
+  [main] INFO  com.TheJail.App  - Create password
+  [main] INFO  com.TheJail.App  - Enter Phone
+  [main] INFO  com.TheJail.App  - Enter Address
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - welcome to registration
+  [main] INFO  com.TheJail.App  - Enter username
+  [main] INFO  com.TheJail.App  - Create password
+  [main] INFO  com.TheJail.App  - Enter Phone
+  [main] INFO  com.TheJail.App  - Enter Address
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - welcome to registration
+  [main] INFO  com.TheJail.App  - Enter username
+  [main] INFO  com.TheJail.App  - Create password
+  [main] INFO  com.TheJail.App  - Enter Phone
+  [main] INFO  com.TheJail.App  - Enter Address
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - welcome to registration
+  [main] INFO  com.TheJail.App  - Enter username
+  [main] INFO  com.TheJail.App  - Create password
+  [main] INFO  com.TheJail.App  - Enter Phone
+  [main] INFO  com.TheJail.App  - Enter Address
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - welcome to registration
+  [main] INFO  com.TheJail.App  - Enter username
+  [main] INFO  com.TheJail.App  - Create password
+  [main] INFO  com.TheJail.App  - Enter Phone
+  [main] INFO  com.TheJail.App  - Enter Address
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - welcome to registration
+  [main] INFO  com.TheJail.App  - Enter username
+  [main] INFO  com.TheJail.App  - Create password
+  [main] INFO  com.TheJail.App  - Enter Phone
+  [main] INFO  com.TheJail.App  - Enter Address
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/TheJail]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@16a9eb2e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+  [main] INFO  com.TheJail.App  - registration success
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - welcome to login
+  [main] INFO  com.TheJail.App  - Enter username
+  [main] INFO  com.TheJail.App  - Enter Password
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/TheJail]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@16a9eb2e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+  [main] INFO  com.TheJail.App  - Hey sahana login success
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - welcome to registration
+  [main] INFO  com.TheJail.App  - Enter username
+  [main] INFO  com.TheJail.App  - Create password
+  [main] INFO  com.TheJail.App  - Enter Phone
+  [main] INFO  com.TheJail.App  - Enter Address
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - welcome to registration
+  [main] INFO  com.TheJail.App  - Enter username
+  [main] INFO  com.TheJail.App  - Create password
+  [main] INFO  com.TheJail.App  - Enter Phone
+  [main] INFO  com.TheJail.App  - Enter Address
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/TheJail]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@16a9eb2e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+  [main] INFO  com.TheJail.App  - registration success
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - welcome to registration
+  [main] INFO  com.TheJail.App  - Enter username
+  [main] INFO  com.TheJail.App  - Create password
+  [main] INFO  com.TheJail.App  - Enter Phone
+  [main] INFO  com.TheJail.App  - Enter Address
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/TheJail]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@16a9eb2e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+  [main] INFO  com.TheJail.App  - registration success
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - welcome to registration
+  [main] INFO  com.TheJail.App  - Enter username
+  [main] INFO  com.TheJail.App  - Create password
+  [main] INFO  com.TheJail.App  - Enter Phone
+  [main] INFO  com.TheJail.App  - Enter Address
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - welcome to registration
+  [main] INFO  com.TheJail.App  - Enter username
+  [main] INFO  com.TheJail.App  - Create password
+  [main] INFO  com.TheJail.App  - Enter Phone
+  [main] INFO  com.TheJail.App  - Enter Address
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/TheJail]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@16a9eb2e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+  [main] INFO  com.TheJail.App  - registration success
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - welcome to login
+  [main] INFO  com.TheJail.App  - Enter username
+  [main] INFO  com.TheJail.App  - Enter Password
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/TheJail]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@16a9eb2e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+  [main] INFO  com.TheJail.App  - Hey Admin login success
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - welcome to login
+  [main] INFO  com.TheJail.App  - Enter username
+  [main] INFO  com.TheJail.App  - Enter Password
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/TheJail]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@16a9eb2e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+  [main] INFO  com.TheJail.App  - Hey sahana login success
+  [main] INFO  com.TheJail.serviceimpl.userdashboardimpl  - 		-----------------------welcome to user dashboard--------------------
+  [main] INFO  com.TheJail.serviceimpl.userdashboardimpl  - 
+	Press 1 for view profile		Press 2 for View Due Amount
+	Press 3 for view Room		Press 4 for update Phone number
+	Press 5 for change Password
+  [main] INFO  com.TheJail.serviceimpl.userdashboardimpl  - user(userId=1, userName=sahana, userPassword=#sahanA, userPhone=9008967679, userAddress=nelmangala, userFee=0, userRole=student, userRoom=null)
+  [main] INFO  com.TheJail.serviceimpl.userdashboardimpl  - 
+	Press 1 for view profile		Press 2 for View Due Amount
+	Press 3 for view Room		Press 4 for update Phone number
+	Press 5 for change Password
+  [main] INFO  com.TheJail.serviceimpl.userdashboardimpl  - Hello User your due amount is 0
+  [main] INFO  com.TheJail.serviceimpl.userdashboardimpl  - 
+	Press 1 for view profile		Press 2 for View Due Amount
+	Press 3 for view Room		Press 4 for update Phone number
+	Press 5 for change Password
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - welcome to login
+  [main] INFO  com.TheJail.App  - Enter username
+  [main] INFO  com.TheJail.App  - Enter Password
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/TheJail]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@16a9eb2e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+  [main] INFO  com.TheJail.App  - Hey sahana login success
+  [main] INFO  com.TheJail.serviceimpl.userdashboardimpl  - 		-----------------------welcome to user dashboard--------------------
+  [main] INFO  com.TheJail.serviceimpl.userdashboardimpl  - 
+	Press 1 for view profile		Press 2 for View Due Amount
+	Press 3 for view Room		Press 4 for update Phone number
+	Press 5 for change Password
+  [main] INFO  com.TheJail.serviceimpl.userdashboardimpl  - Enter new Phone number
+  [main] INFO  com.TheJail.serviceimpl.userdashboardimpl  - phone number updated!...
+  [main] INFO  com.TheJail.serviceimpl.userdashboardimpl  - 
+	Press 1 for view profile		Press 2 for View Due Amount
+	Press 3 for view Room		Press 4 for update Phone number
+	Press 5 for change Password
+  [main] INFO  com.TheJail.serviceimpl.userdashboardimpl  - Enter current password
+  [main] INFO  com.TheJail.serviceimpl.userdashboardimpl  - Enter New password
+  [main] INFO  com.TheJail.serviceimpl.userdashboardimpl  - password updated!...
+  [main] INFO  com.TheJail.serviceimpl.userdashboardimpl  - 
+	Press 1 for view profile		Press 2 for View Due Amount
+	Press 3 for view Room		Press 4 for update Phone number
+	Press 5 for change Password
+  [main] INFO  com.TheJail.App  - 		--------------The  Jail----------------------
+  [main] INFO  com.TheJail.App  - press 1 for Registration 
+ press 2 for Login
+  [main] INFO  com.TheJail.App  - welcome to login
+  [main] INFO  com.TheJail.App  - Enter username
+  [main] INFO  com.TheJail.App  - Enter Password
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/TheJail]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@16a9eb2e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+  [main] INFO  com.TheJail.App  - Hey sahana login success
+  [main] INFO  com.TheJail.serviceimpl.userdashboardimpl  - 		-----------------------welcome to user dashboard--------------------
+  [main] INFO  com.TheJail.serviceimpl.userdashboardimpl  - 
+	Press 1 for view profile		Press 2 for View Due Amount
+	Press 3 for view Room		Press 4 for update Phone number
+	Press 5 for change Password
+  
