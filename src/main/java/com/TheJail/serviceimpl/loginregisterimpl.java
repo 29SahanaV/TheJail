@@ -1,7 +1,14 @@
 package com.TheJail.serviceimpl;
 
 import java.util.Scanner;
+import java.util.Set;
 import java.util.regex.Pattern;
+
+import javax.validation.ConstraintViolation;
+import javax.validation.Validation;
+import javax.validation.Validator;
+import javax.validation.ValidatorFactory;
+
 
 import com.TheJail.App;
 import com.TheJail.dao.TheJaildao;
@@ -46,19 +53,31 @@ public class loginregisterimpl implements loginregister{
 		u1.setUserRoom(null);
 		
 		//validating user data
-		if(Pattern.matches("[a-zA-Z]{4,}", name)&&Pattern.matches("[0-9]{10}", phone)&&Pattern.matches("[a-zA-Z0-9@#]{6,}", pwd))
-		{
-			//inserting user data
+		
+		// if(Pattern.matches("[a-zA-Z]{4,}", name)&&Pattern.matches("[0-9]{10}", phone)&&Pattern.matches("[a-zA-Z0-9@#]{6,}", pwd))
+		// {
+			//inserting user data by validating the user data
+		ValidatorFactory vf=Validation.buildDefaultValidatorFactory();  //creating validation
+		Validator valid=vf.getValidator();
+
+	Set<ConstraintViolation<user>> violation=valid.validate(u1);  //by validating u1 to store voilation in set
+
+	if(violation.size()>0) {             //if it is greater than  0 it has voilations
+		for(ConstraintViolation<user> vio:violation)
+			log.info(vio.getMessage());
+	}
+	else {    //if it isnt having voilation -inserting valid data
 			int status=dao.registration(u1);	
 			if(status==1) 
 			{
 			log.info("registration success");
 			}
-		}
-		else {
-			throw new GlobalException("Invalid  data");
-		}
-		
+	}
+//		}
+//		else {
+//			throw new GlobalException("Invalid  data");
+//		}
+//		
 	}
 
 	//Login
